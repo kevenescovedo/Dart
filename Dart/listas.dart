@@ -1,3 +1,5 @@
+
+  
 class Pessoa {
   String nome;
   int idade;
@@ -50,6 +52,9 @@ for(int i = 0; i < nomes.length; i++) {
   for( Pessoa p in pessoa) {
   print(p);
   print(p.nome);
+   
 }
+  print(pessoa);
+  
   
 }
